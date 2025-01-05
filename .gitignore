@@ -1,0 +1,7 @@
+# Files generated while execution
+*.pyc
+HeartShots/__pycache__/
+
+# scratch directory with results created when executing tests
+scratch/
+.idea/
